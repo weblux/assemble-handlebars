@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "handlebars": "^3.0.1",
-    "handlebars-helpers": "^0.5.8"
+    "handlebars-helpers": "git+https://www.github.com/weblux/handlebars-helpers.git#v0.5.8"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
